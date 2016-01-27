@@ -58,7 +58,8 @@ body {
     margin: 45px 5px 0px 0px;
     border-left: 1px solid #FAF9F4; 
     color: #fff;
-    font-size: #smaller;
+    font-size: #small;
+    line-height: 1.4em;
     }
 
 .featureblock blockquote:first-letter {
