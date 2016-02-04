@@ -1,12 +1,6 @@
 /***
-Beak Speak Media Master Stylesheet
+Diana Does {Digital} Master Stylesheet
 Author: Diana Mahmoud
-
-/***
-
- a :active  #fff;
-    :hover 
-    :focus  #fff; 
 
 ***/
 
@@ -14,6 +8,10 @@ Author: Diana Mahmoud
 
 body {
     background-color: #FAF9F4;
+}
+
+.container_header {
+    margin-left: 20px;
 }
 
 .nav-pills>li.active>a, .nav-pills>li.active> .nav-pills>li.active>a:hover {
